@@ -1,5 +1,11 @@
-# Hand Written Text Recognition System
+<p align="center">
+  
+![HandWritten Text Recognition]([https://user-images.githubusercontent.com/40190772/83947174-c3254280-a815-11ea-960c-65d1e2576bce.png](https://shorturl.at/KACyz))
 
+
+</p>
+
+# Hand Written Text Recognition System
 
 # Objective
 
